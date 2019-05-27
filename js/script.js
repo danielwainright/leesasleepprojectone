@@ -1,3 +1,4 @@
+function looper() {
   for (var x=1; x <= 100; x++) {
       var skip = 0;
 
@@ -19,4 +20,5 @@
       if (!skip) {
           document.write(x + ', ');
       } 
-  }
+   }
+ } 
