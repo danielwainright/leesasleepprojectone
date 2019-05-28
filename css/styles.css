@@ -1,3 +1,7 @@
+body{
+	padding:20px;
+}
+
 h1 {
 	color: #4f5766;
 	font-family: Nueton,Times,serif;
@@ -8,7 +12,7 @@ h1 {
 .theLoop{
 	font-family: 'Raleway', sans-serif;
 	margin:0 auto;
-	width:992px;
+	max-width:992px;
 	text-align: justify;
 	text-align-last: center;
 	color:#ccc;
@@ -34,6 +38,6 @@ h1 {
 .lessaSleep {
 	font-weight: bolder;
 	background-color: #fff;
-	color:#02aaba !important;
+	color:#02aaba !important;x
 	padding:10px;
 }
